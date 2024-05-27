@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Saboohy\\Limiter\\": "src/"
+        }
+    },
+    "require": {
+        "saboohy/basepath": "^1.0"
+    }
+}
